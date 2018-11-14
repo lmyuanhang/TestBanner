@@ -24,6 +24,7 @@
     self.window.backgroundColor = [UIColor whiteColor];
     
     NSLog(@"TestDev");
+    NSLog(@"Testggggg");
     
     ViewController *mainVC = [[ViewController alloc] init];
     
