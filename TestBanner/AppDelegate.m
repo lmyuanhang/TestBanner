@@ -23,7 +23,12 @@
     self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
     self.window.backgroundColor = [UIColor whiteColor];
     
+
     NSLog(@"TestMaster");
+
+    NSLog(@"TestDev");
+    NSLog(@"Testggggg");
+
     
     ViewController *mainVC = [[ViewController alloc] init];
     
